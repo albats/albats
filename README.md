@@ -1,32 +1,27 @@
 # 👋 Hi, I'm Alba Torres!
 
-💡 Data-Driven Problem Solver <br/>
+I’m currently working as a **Data & AI Intern** at a tech consulting firm in Madrid, where I contribute to projects from ML/DL to generative AI, RAG systems, and multi-agent architectures.
 
-🚀 Always eager to learn, lead, and take initiative <br/>
+## About me
 
-🎓 Double Degree in Economics and International Studies at UC3M, where I have been able to develop skills in econometrics and causal analysis for social impact projects <br/>
+Previously worked as a **Data Science Intern at an NGO**. An experience that made me truly passionate about using data and AI to drive better decisions and create meaningful social impact.
 
-📊 Minor in Data Science to learn key modelling and analytic techniques -> the objective is to turn data into action <br/>
+**Education:**
+- Double Degree in Economics and International Studies - UC3M
+- Minor in Data Science | Bootcamp in AI at UNiR
+- Business certifications from McKinsey, Harvard, and LSE
 
-💫 Business certifications from McKinsey, Harvard, and LSE
+**Outside of work**, you'll probably find me training for my next race or competition.
 
-----
-### 🔍 About me...
+## Tech Stack
 
-Data Science Intern at an NGO, passionate about applying AI and automation to measure social impact and improve operational efficiency. With a strong foundation in Python, SQL, and econometrics, I’m eager to tackle complex problems and turn data into actionable insights — particularly in the financial sector, where analytics can drive smarter business decisions.
+- **Languages**: Python, R, SQL, Stata
+- **ML & AI**: scikit-learn, PyTorch, XGBoost, Pandas, NumPy, statsmodels
+- **GenAI**: LangChain, RAG pipelines, multi-agent systems
+- **Visualization**: Power BI, Streamlit, Matplotlib, Plotly
+- **Automation**: Power Apps, Power Automate
 
-----
-### 💻 Tech Stack:
-
-- **Languages:** Python, R, SQL, Stata
-- **ML & Analytics:** scikit-learn, PyTorch, XGBoost, Pandas, numPy, statsmodels
-- **Dashboards & Viz:** Power BI, Streamlit, Matplotlib, Plotly
-- **Low-Code Automation Platforms:** Power Apps, Power Automate
-
-------
 ### Contact me at
 
 - 💼 [LinkedIn](www.linkedin.com/in/alba-torres-sánchez-26226b2a9)
 - ✉️ alba.torres3002@gmail.com
-
-
