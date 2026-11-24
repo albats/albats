@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Alba Torres!
 
-I’m currently working as a **Data & AI Intern** at a tech consulting firm in Madrid, where I contribute to projects from ML/DL to generative AI, RAG systems, and multi-agent architectures.
+I’m currently working as a **Data & AI Consultant** at a tech consulting firm in Madrid, where I contribute to projects from ML/DL to generative AI, RAG systems, and multi-agent architectures.
 
 ## About me
 
@@ -9,6 +9,7 @@ Previously worked as a **Data Science Intern at an NGO**. An experience that mad
 **Education:**
 - Double Degree in Economics and International Studies - UC3M
 - Minor in Data Science | Bootcamp in AI at UNiR
+- Master in AI Engineering at thePower (In Company)
 - Business certifications from McKinsey, Harvard, and LSE
 
 **Outside of work**, you'll probably find me training for my next race or competition.
@@ -19,7 +20,7 @@ Previously worked as a **Data Science Intern at an NGO**. An experience that mad
 - **ML & AI**: scikit-learn, PyTorch, XGBoost, Pandas, NumPy, statsmodels
 - **GenAI**: LangChain, RAG pipelines, multi-agent systems
 - **Visualization**: Power BI, Streamlit, Matplotlib, Plotly
-- **Automation**: Power Apps, Power Automate
+- **Automation**: Power Apps, Power Automate, Azure
 
 ### Contact me at
 
